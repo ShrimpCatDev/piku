@@ -9,7 +9,7 @@
         "command": "/home/deck/.local/bin/squashfs-root/bin/love"
       },
       "args": [
-        "/home/deck/Documents/GitHub/jelpi-plus"
+        "/home/deck/Documents/GitHub/piku"
       ]
     },
     {
@@ -20,7 +20,7 @@
         "command": "/home/deck/.local/bin/squashfs-root/bin/love"
       },
       "args": [
-        "/home/deck/Documents/GitHub/jelpi-plus"
+        "/home/deck/Documents/GitHub/piku"
       ]
     }
   ]
